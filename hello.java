@@ -1,4 +1,4 @@
-class hello	#from wind-user
+class hello	#from wind-user.....modf by dev1
 {
 	public static void main()	#from wind
 	{
